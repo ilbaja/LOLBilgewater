@@ -1,6 +1,6 @@
 # LOLBilgewater
 LOLBilgewater is a webapp devloped for Riot Api and i used for devloped it : Nodejs, angularjs and google refine 
-by Yassine bajaddi (euw: jbuba, italy: todi)
+(euw: jbuba, italy: todi)
 
 This project aims to understand how players changed their play style in the Bilgewater game mode and the effects of the new items and the bans too . Results are finally aggregated and presented in the mini AngularJS application.
 
