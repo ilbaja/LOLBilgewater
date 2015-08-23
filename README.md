@@ -4,11 +4,12 @@ by Yassine bajaddi (euw: jbuba, italy: todi)
 
 This project aims to understand how players changed their play style in the Bilgewater game mode and the effects of the new items and the bans too . Results are finally aggregated and presented in the mini AngularJS application.
 
-Interesting Findings
+#Interesting Findings
 
 In Bilgewater mode there aren't a big diffence but with new items the KDA will raise up.
 
-Technologies used
+#Technologies used
+
 google refine
 Microsoft Azure ML
 AngularJS and jquery
